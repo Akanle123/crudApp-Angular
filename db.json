@@ -1,0 +1,82 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "firstName": "09076765643",
+      "email": "rotimiakanle1@gmail.com",
+      "mobile": "",
+      "salary": "$120,000"
+    },
+    {
+      "id": 3,
+      "firstName": "09076765643",
+      "email": "rotimiakanle1@gmail.com",
+      "mobile": "",
+      "salary": "$120,000"
+    },
+    {
+      "id": 4,
+      "firstName": "098765678",
+      "email": "rotimiakanle1@gmail.com",
+      "mobile": "",
+      "salary": "980800"
+    },
+    {
+      "id": 5,
+      "firstName": "0987653",
+      "email": "bark@yahoo.com",
+      "mobile": "",
+      "salary": "1200000"
+    },
+    {
+      "id": 6,
+      "firstName": "0907676543",
+      "email": "daki@yahoo.com",
+      "mobile": "",
+      "salary": "120,808"
+    },
+    {
+      "id": 7,
+      "firstName": "",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 8,
+      "firstName": "ghs",
+      "email": "",
+      "mobile": "",
+      "salary": ""
+    },
+    {
+      "id": 9,
+      "firstName": "Sean",
+      "email": "rotimiakanle1@gmail.com",
+      "mobile": "0890987",
+      "salary": "$120,000"
+    },
+    {
+      "id": 10,
+      "firstName": "Sean",
+      "email": "rotimiakanle1@gmail.com",
+      "mobile": "0890987",
+      "salary": "$120,000"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
